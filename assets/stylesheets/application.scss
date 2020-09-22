@@ -16,3 +16,13 @@ body {
   flex: 0 0 40%;
   background-color: blue;
 }
+
+.selected-gif{
+  .gif{
+    width: 500px;
+  }
+}
+
+.gif{
+  width: 200px;
+}
